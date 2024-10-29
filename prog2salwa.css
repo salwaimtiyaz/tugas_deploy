@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding:0;
+}
+ul li{
+    list-style: none;
+    float: right;
+    display: inline;
+    padding: 10px 20px;
+    
+}
+    
+a{
+    text-decoration: none;
+    color: black;
+}
+.navbar{
+    position: static;
+    width: 100%;
+    background-color:bisque ;
+    width: 100%;
+    margin-right: 30px;
+    padding: 20px 30px;
+    float: right;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 1000;
+    display: inline;
+}
+#Cat{
+    position: static;
+    color: #079dca;
+    font-size: 120px;
+    margin-top: 80px;
+    margin-left: 70px;
+    float: left;
+    width: 50%;
+}
+
+#kata{
+    position: absolute;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 150%;
+    width: 50%;
+    margin-left: 75px;
+    margin-top: 320px;
+    color: darksalmon;
+}
+#foto1{
+    position: static;
+    float: right;
+    width: 35%;
+    margin-right: 126px;
+    margin-top: 60px;
+}
+#Cat2{
+    position: static;
+    width: 50%;
+    float: right;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+#foto2{
+    position: relative;
+    float: left;
+    width: 40%;
+    margin-left: 60px;
+    margin-top: -100px;
+}
+.gambar{
+    position: static;
+    width: 100%;
+    display: inline-block;
+    margin-top: 40px;
+}
+h3{
+    background-color: aliceblue;
+    position: static;
+}
